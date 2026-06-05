@@ -1,4 +1,3 @@
 ls
-c[Kcat readme
-ls
+cat readme
 exit
