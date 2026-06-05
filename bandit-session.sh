@@ -22,6 +22,8 @@ script -qf -c "bash -i" "$LOGFILE"
 grep -a 'bandit[0-9].*\$ ' "$LOGFILE" |
 sed 's/.*\$ //' > "$HISTFILE"
 
+rm -f "$LOGFILE"
+
 echo "Extracted commands to:"
 echo "$HISTFILE"
 
