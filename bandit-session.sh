@@ -38,7 +38,6 @@ git add bandit
 
 if ! git diff --cached --quiet; then
     git commit -m "Bandit session $DATE"
-    git push
 fi
 
-echo "Session saved and pushed."
+echo "Session saved, you can push."
