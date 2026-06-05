@@ -19,9 +19,14 @@ rm -f "$LOGFILE"
 script -qf -c "bash -i" "$LOGFILE"
 
 # Extract only commands typed at bandit prompts
-grep -a 'bandit[0-9].*\$ ' "$LOGFILE" |
-sed 's/.*\$ //' > "$HISTFILE"
+perl -pe 's/\e\[[0-9;?]*[ -\/]*[@-~]//g' "$LOGFILE" |
+col -b |
+tr -d '\r' |
+grep -aE 'bandit[0-9]+@.*\$ ' |
+sed 's/.*\$ //' |
+grep -v '^$' > "$HISTFILE"
 
+# Remove temporary log
 rm -f "$LOGFILE"
 
 echo "Extracted commands to:"
