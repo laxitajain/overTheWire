@@ -8,3 +8,13 @@ ls
 echo hello
 #1780675634
 exit
+#1780675730
+ssh bandit20@bandit.labs.overthewire.org -p 2220
+#1780675801
+ssh bandit20@bandit.labs.overthewire.org -p 2220
+#1780675812
+ssh bandit12@bandit.labs.overthewire.org -p 2220
+#1780676349
+ssh bandit13@bandit.labs.overthewire.org -p 2220
+#1780676359
+exit
