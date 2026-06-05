@@ -1,14 +1,19 @@
 #!/bin/bash
 
 REPO=~/overTheWire
-LOG="$REPO/bandit/$(date +%F-%H%M).log"
+DATE=$(date +%F)
 
 mkdir -p "$REPO/bandit"
 
-script "$LOG"
+export HISTFILE="$REPO/bandit/$DATE.history"
+export HISTSIZE=100000
+export HISTFILESIZE=100000
 
-cd "$REPO" || exit
+history -c
+history -w
 
-git add bandit
-git commit -m "Bandit session $(date '+%F %H:%M')" || true
-git push
+echo "Bandit session started."
+echo "Commands will be saved to:"
+echo "$HISTFILE"
+
+bash
