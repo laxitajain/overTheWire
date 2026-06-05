@@ -1,10 +1,124 @@
-Script started on 2026-06-05 20:37:14+04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+Script started on 2026-06-05 20:39:42+04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
 [0m[38;5;242m[49m[39m[27m[24m[K
 
 [2A7[0m[49m[39m[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m
 [38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[?2004h]4;0;#251d33\]4;1;#7C6290\]4;2;#885987\]4;3;#8F6994\]4;4;#A177A1\]4;5;#A88DB1\]4;6;#B28CB1\]4;7;#c8c6cc\]4;8;#6f677e\]4;9;#7C6290\]4;10;#885987\]4;11;#8F6994\]4;12;#A177A1\]4;13;#A88DB1\]4;14;#B28CB1\]4;15;#c8c6cc\]10;#c8c6cc\]11;#251d33\]12;#c8c6cc\]13;#c8c6cc\]17;#c8c6cc\]19;#251d33\]4;232;#251d33\]4;256;#c8c6cc\]4;257;#251d33\]708;#251d33\[?25l8[0m[49m[39m[27m[24m[J]4;0;#251d33\]4;1;#7C6290\]4;2;#885987\]4;3;#8F6994\]4;4;#A177A1\]4;5;#A88DB1\]4;6;#B28CB1\]4;7;#c8c6cc\]4;8;#6f677e\]4;9;#7C6290\]4;10;#885987\]4;11;#8F6994\]4;12;#A177A1\]4;13;#A88DB1\]4;14;#B28CB1\]4;15;#c8c6cc\]10;#c8c6cc\]11;#251d33\]12;#c8c6cc\]13;#c8c6cc\]17;#c8c6cc\]19;#251d33\]4;232;#251d33\]4;256;#c8c6cc\]4;257;#251d33\]708;#251d33\]2;laxita@debian13:~/otw]1;~/otw]7;file://debian13/home/laxita/otw\[0m[38;5;254m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                               [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[38;5;242m[49m[39m
-[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m!1 [30m?1[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                                    [0m[49m[31m[0m[31m[41m[33m 1[0m[33m[41m[41m[33m ✘[0m[33m[41m[41m[33m [0m[33m[41m[49m[39m[38;5;242m─╮
-[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?25h[?2004h./bandit-session.sh[19D[32m.[32m/[32mb[32ma[32mn[32md[32mi[32mt[32m-[32ms[32me[32ms[32ms[32mi[32mo[32mn[32m.[32ms[32mh[39m[19D[32mc[32mh[32mm[32mo[32md[32m [32m+[32mx[32m [32mb[32ma[32mn[32md[32mi[32mt[32m-[32ms[32me[32ms[39msion.sh[22D[32md[39m[39m [39m+[39mx[39m [39m[4mb[39m[4ma[39m[4mn[39m[4md[39m[4mi[39m[4mt[39m[4m-[39m[4ms[39m[4me[39m[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[26D[32m.[32m/[32mb[32ma[32mn[39mdit-[4ms[4me[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[24m [24m [24m [24m [24m [24m [24m [15D[32mn[32md[32mi[32mt[32m-[24m[32ms[24m[32me[24m[32ms[24m[32ms[24m[32mi[24m[32mo[24m[32mn[24m[32m.[24m[32ms[24m[32mh[39m[19D[32mc[32mh[32mm[32mo[32md[32m [32m+[32mx[32m [32mb[32ma[32mn[32md[32mi[32mt[32m-[32ms[32me[32ms[39msion.sh[22D[32md[39m[39m [39m+[39mx[39m [39m[4mb[39m[4ma[39m[4mn[39m[4md[39m[4mi[39m[4mt[39m[4m-[39m[4ms[39m[4me[39m[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[26D[32mg[32mi[32mt[32m [32ms[39mtatu[4ms[24m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [16D[8D[32mt[39m[39m [39ms[4C[24ms[10D[32m.[32m/[32mb[39mandit-session.sh[17D[32mb[32ma[32mn[32md[32mi[32mt[32m-[32ms[32me[32ms[32ms[32mi[32mo[32mn[32m.[32ms[32mh[39m[19D[32mc[32mh[32mm[32mo[32md[32m [32m+[32mx[32m [32mb[32ma[32mn[32md[32mi[32mt[32m-[32ms[32me[32ms[39msion.sh[22D[32md[39m[39m [39m+[39mx[39m [39m[4mb[39m[4ma[39m[4mn[39m[4md[39m[4mi[39m[4mt[39m[4m-[39m[4ms[39m[4me[39m[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[26D[32m.[32m/[32mb[32ma[32mn[39mdit-[4ms[4me[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[24m [24m [24m [24m [24m [24m [24m [15D[32mn[32md[32mi[32mt[32m-[24m[32ms[24m[32me[24m[32ms[24m[32ms[24m[32mi[24m[32mo[24m[32mn[24m[32m.[24m[32ms[24m[32mh[39m[19D[32mc[32mh[32mm[32mo[32md[32m [32m+[32mx[32m [32mb[32ma[32mn[32md[32mi[32mt[32m-[32ms[32me[32ms[39msion.sh[22D[32md[39m[39m [39m+[39mx[39m [39m[4mb[39m[4ma[39m[4mn[39m[4md[39m[4mi[39m[4mt[39m[4m-[39m[4ms[39m[4me[39m[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[26D[32mg[32mi[32mt[32m [32ms[39mtatu[4ms[24m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [16D[8D[32mt[39m[39m [39ms[4C[24ms[10D[32ml[32ms[32m [39m-l bandit[12D[32ml[32ms[39m[39m [3C[4mb[4ma[4mn[4md[4mi[4mt[24m[12D[32m.[32m/[39mband[4mi[4mt[4m-[4ms[4me[4ms[24msion.sh[19D[32m.[32m/[32mb[32ma[32mn[32md[24m[32mi[24m[32mt[24m[32m-[24m[32ms[24m[32me[24m[32ms[32ms[32mi[32mo[32mn[32m.[32ms[32mh[39m[19D[32mc[32md[32m [32mo[32mt[32mw[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[32mc[32md[39m[39m [39mo[39mt[39mw[32mg[32mi[39mt push -u origin main[23D[32mg[32mi[32mt[39m[20C[19Dcommit -m "lil fix"[9D[33m"[33ml[33mi[33ml[33m [33mf[33mi[33mx[33m"[39m[19Dadd .     [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[4m.[24m[9D[32mc[32mh[32mm[39mod +x[4m [24mbandit-session.sh[24D[32mm[32mo[32md[39m[3C[24m [4mb[4ma[4mn[4md[4mi[4mt[4m-[4ms[4me[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[26D[32mg[32mi[32mt[32m [32mp[39mush [4m-[4mu[4m [4mo[4mr[4mi[4mg[4mi[4mn[4m [4mm[4ma[4mi[4mn[24m[24m [24m [24m [21D[32mt[39m[39m [39mp[4C[24m-[24mu[24m [24mo[24mr[24mi[24mg[24mi[24mn[24m [24mm[24ma[24mi[24mn[19Dcommit -m "setup of my linux wizardry ¬‿¬"[32D[33m"[33ms[33me[33mt[33mu[33mp[33m [33mo[33mf[33m [33mm[33my[33m [33ml[33mi[33mn[33mu[33mx[33m [33mw[33mi[33mz[33ma[33mr[33md[33mr[33my[33m [33m¬[33m‿[33m¬[33m"[39m[42Dadd .     [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[4m.[24m[9D[32mc[32mh[32mm[39mod +x[4m [24mbandit-session.sh[24D[32mm[32mo[32md[39m[3C[24m [4mb[4ma[4mn[4md[4mi[4mt[4m-[4ms[4me[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[26D[32mn[32ma[32mn[32mo[32m [39mband[4mi[4mt[4m-[4ms[4me[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[24m [24m [24m [24m [19D[32mo[39m[39m [4mb[4ma[4mn[4md[13C[22D[24m[32mc[32mh[32mm[32mo[39md[4m [4m+[4mx[4m [4mb[4ma[4mn[4md[4mi[4mt[4m-[4ms[4me[4ms[4ms[4mi[4mo[24mn.sh[23D[32mo[32md[39m[24m [24m+[24mx[24m [12C[4mo[4mn[4m.[4ms[4mh[24m[26D[32mg[32mi[32mt[32m [32ma[39mdd .[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [17D[32mt[39m[39m [39ma[3C[4m.[24mcomm[4mi[24mt -m "setup of my linux wizardry ¬‿¬"[38D[24mi[5C[33m"[33ms[33me[33mt[33mu[33mp[33m [33mo[33mf[33m [33mm[33my[33m [33ml[33mi[33mn[33mu[33mx[33m [33mw[33mi[33mz[33ma[33mr[33md[33mr[33my[33m [33m¬[33m‿[33m¬[33m"[39m[42Dpush -u or[33mi[33mg[33mi[33mn[33m [33mm[33ma[33mi[33mn[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[9D[39mi[39mg[39mi[39mn[39m [39mm[39ma[39mi[39mn[19Dcommit -m "setup of my linux wizardry ¬‿¬"[32D[33m"[33ms[33me[33mt[33mu[33mp[33m [33mo[33mf[33m [33mm[33my[33m [33ml[33mi[33mn[33mu[33mx[33m [33mw[33mi[33mz[33ma[33mr[33md[33mr[33my[33m [33m¬[33m‿[33m¬[33m"[39m[42Dadd .     [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[4m.[24m[9D[32mc[32mh[32mm[39mod +x[4m [24mbandit-session.sh[24D[32mm[32mo[32md[39m[3C[24m [4mb[4ma[4mn[4md[4mi[4mt[4m-[4ms[4me[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[26D[32mn[32ma[32mn[32mo[32m [39mband[4mi[4mt[4m-[4ms[4me[4ms[4ms[4mi[4mo[4mn[4m.[4ms[4mh[24m[24m [24m [24m [24m [19D[32mo[39m[39m [4mb[4ma[4mn[4md[13C[22D[24m[32mm[32mk[32md[32mi[39mr[4m [4mb[4ma[4mn[4md[4mi[4mt[24m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [10D[9D[32mi[32mr[39m[24m [6C[12D[32mg[32mi[32mt[32m [32ms[39mt[4ma[4mt[4mu[4ms[24m[24m [24m [8D[32mt[39m[39m [39mst[24ma[24mt[24mu[24mscheckout -b mainm[5Cmain   [13Dremote -v    add origin https://github.com/laxitajain/overTheWire.git[63Dinit                                                           [59Dstatus[10D[32mc[32mo[32md[39me .    [32md[32me[39m [4m.[24m[32mc[32md[32m [32mo[39mt[4mw[24m[32mc[32md[39m[39m [39mot[24mw[32ml[32ms[39m    [32mc[32md[39m ..[4m.[4m.[24m[32ml[32ms[39m [24m [24m [32mc[32mo[39mde .[32mc[32mo[32md[32me[39m [4m.[24m[32mc[32md[32m [32mo[39mt[4mw[24m[32mc[32md[39m[39m [39mot[24mw[32mm[32mk[39mdir otw[9D[32mm[32mk[32md[32mi[32mr[39m[4C[9D[32ml[32ms[39m[39m [39m [39m     [32mr[32mm[39m -rf otw[10D[32mc[32md[39m ..     [4m.[4m.[24m[32mg[32mi[39mt[4m [4ms[24mtatus[10D[32mg[32mi[32mt[39m[24m [24ms[5Cremote add origin https://github.com/laxitajain/overTheWire.git[63Dclone https://[2Cthub.com/laxitajain/overTheWire.git            [12D[51Dremote -v                                          [42D[9Dinit     [8D[32mc[32mo[32md[39me .  [32md[32me[39m [4m.[24m[32mc[32md[32m [32mo[39mt[4mw[24m[32mc[32md[39m[39m [39mot[24mw[32mm[32mk[39mdir otw[9D[32mm[32mk[32md[32mi[32mr[39m[4C[9D[32ml[32ms[39m[39m [39m [39m     [32ms[32ms[39mh bandit13@bandit.labs.overthewire.org -p 2220[48D[32ms[32ms[32mh[39m[45C[37D2[36C[37D3[36C[37D2[36C[37D1[36C[1Cbandit.labs.overthewire.org -p 2[2C0 [36Dbandit.labs.overthewire.org -p 2[2C0 [36Dbandit.labs.overthewire.org -p 2[2C0 [36D0bandit.labs.overthewire.org -p [2C20[35D1bandit.labs.overthewire.org -p [2C20[35D@bandit.labs.overthewire.org -p [2C20[35D[?1l>[?2004l
+[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m⇡1 [30m!2[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                                    [0m[49m[31m[0m[31m[41m[33m 1[0m[33m[41m[41m[33m ✘[0m[33m[41m[41m[33m [0m[33m[41m[49m[39m[38;5;242m─╮
+[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?25h[?2004h./bandit-session.sh[19D[32m.[32m/[32mb[32ma[32mn[32md[32mi[32mt[32m-[32ms[32me[32ms[32ms[32mi[32mo[32mn[32m.[32ms[32mh[39m[19D[32me[32mx[32mi[32mt[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[32ms[32ms[32mh[32m [39mbandit01@bandit.labs.overthewire.org -p 2220[46D[32mh[39m[39m [44C@bandit.labs.overthewire.org -p 2[2C0 [37D[?1l>[?2004l
+]2;ssh bandit0@bandit.labs.overthewire.org -p 2220]1;bandit0@bandit.labs.overthewire.org                         _                     _ _ _   
+                        | |__   __ _ _ __   __| (_) |_ 
+                        | '_ \ / _` | '_ \ / _` | | __|
+                        | |_) | (_| | | | | (_| | | |_ 
+                        |_.__/ \__,_|_| |_|\__,_|_|\__|
+                                                       
+
+                      This is an OverTheWire game server. 
+            More information on http://www.overthewire.org/wargames
+
+backend: gibson-1
+bandit0@bandit.labs.overthewire.org's password: 
+
+      ,----..            ,----,          .---.
+     /   /   \         ,/   .`|         /. ./|
+    /   .     :      ,`   .'  :     .--'.  ' ;
+   .   /   ;.  \   ;    ;     /    /__./ \ : |
+  .   ;   /  ` ; .'___,/    ,' .--'.  '   \' .
+  ;   |  ; \ ; | |    :     | /___/ \ |    ' '
+  |   :  | ; | ' ;    |.';  ; ;   \  \;      :
+  .   |  ' ' ' : `----'  |  |  \   ;  `      |
+  '   ;  \; /  |     '   :  ;   .   \    .\  ;
+   \   \  ',  /      |   |  '    \   \   ' \ |
+    ;   :    /       '   :  |     :   '  |--"
+     \   \ .'        ;   |.'       \   \ ;
+  www. `---` ver     '---' he       '---" ire.org
+
+
+Welcome to OverTheWire!
+
+If you find any problems, please report them to the #wargames channel on
+discord or IRC.
+
+--[ Playing the games ]--
+
+  This machine might hold several wargames.
+  If you are playing "somegame", then:
+
+    * USERNAMES are somegame0, somegame1, ...
+    * Most LEVELS are stored in /somegame/.
+    * PASSWORDS for each level are stored in /etc/somegame_pass/.
+
+  Write-access to homedirectories is disabled. It is advised to create a
+  working directory with a hard-to-guess name in /tmp/.  You can use the
+  command "mktemp -d" in order to generate a random and hard to guess
+  directory in /tmp/.  Read-access to both /tmp/ is disabled and to /proc
+  restricted so that users cannot snoop on eachother. Files and directories
+  with easily guessable or short names will be periodically deleted! The /tmp
+  directory is regularly wiped.
+  Please play nice:
+
+    * don't leave orphan processes running
+    * don't leave exploit-files laying around
+    * don't annoy other players
+    * don't post passwords or spoilers
+    * again, DONT POST SPOILERS!
+      This includes writeups of your solution on your blog or website!
+
+--[ Tips ]--
+
+  This machine has a 64bit processor and many security-features enabled
+  by default, although ASLR has been switched off.  The following
+  compiler flags might be interesting:
+
+    -m32                    compile for 32bit
+    -fno-stack-protector    disable ProPolice
+    -Wl,-z,norelro          disable relro
+
+  In addition, the execstack tool can be used to flag the stack as
+  executable on ELF binaries.
+
+  Finally, network-access is limited for most levels by a local
+  firewall.
+
+--[ Tools ]--
+
+ For your convenience we have installed a few useful tools which you can find
+ in the following locations:
+
+    * gef (https://github.com/hugsy/gef) in /opt/gef/
+    * pwndbg (https://github.com/pwndbg/pwndbg) in /opt/pwndbg/
+    * gdbinit (https://github.com/gdbinit/Gdbinit) in /opt/gdbinit/
+    * pwntools (https://github.com/Gallopsled/pwntools)
+    * radare2 (http://www.radare.org/)
+
+--[ More information ]--
+
+  For more information regarding individual wargames, visit
+  http://www.overthewire.org/wargames/
+
+  For support, questions or comments, contact us on discord or IRC.
+
+  Enjoy your stay!
+
+[?2004h]0;bandit0@bandit: ~[01;32mbandit0@bandit[00m:[01;34m~[00m$ ls
+[?2004lreadme
+[?2004h]0;bandit0@bandit: ~[01;32mbandit0@bandit[00m:[01;34m~[00m$ cd e[Kreadme
+[?2004l-bash: cd: readme: Not a directory
+[?2004h]0;bandit0@bandit: ~[01;32mbandit0@bandit[00m:[01;34m~[00m$ cat readme
+[?2004lCongratulations on your first steps into the bandit game!!
+Please make sure you have read the rules at https://overthewire.org/rules/
+If you are following a course, workshop, walkthrough or other educational activity,
+please inform the instructor about the rules as well and encourage them to
+contribute to the OverTheWire community so we can keep these games free!
+
+The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+[?2004h]0;bandit0@bandit: ~[01;32mbandit0@bandit[00m:[01;34m~[00m$ exit
+[?2004llogout
+Connection to bandit.labs.overthewire.org closed.
+[1m[7m%[27m[1m[0m                                                                                ]2;laxita@debian13:~/otw]1;~/otw]7;file://debian13/home/laxita/otw\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;242m[49m[39m
+[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m⇡1 [30m!2[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                             [0m[49m[30m[0m[30m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m 30s[0m[30m[43m[43m[30m  [0m[30m[43m[43m[30m [0m[30m[43m[49m[39m[38;5;242m─╮
+[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?2004hssh bandit0@bandit.labs.overthewire.org -p 2220[47D[32ms[32ms[32mh[39m[44C1@bandit.labs.overthewire.org -p [2C20[36D[?1l>[?2004l
 ]2;ssh bandit01@bandit.labs.overthewire.org -p 2220]1;bandit01@bandit.labs.overthewire.org                         _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -19,14 +133,135 @@ backend: gibson-1
 bandit01@bandit.labs.overthewire.org's password: 
 Permission denied, please try again.
 bandit01@bandit.labs.overthewire.org's password: 
-
+Permission denied, please try again.
+bandit01@bandit.labs.overthewire.org's password: 
+bandit01@bandit.labs.overthewire.org: Permission denied (publickey,password).
 [1m[7m%[27m[1m[0m                                                                                ]2;laxita@debian13:~/otw]1;~/otw]7;file://debian13/home/laxita/otw\[0m[49m[39m[K
 [0m[27m[24m[J[0m[38;5;242m[49m[39m
-[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m!1 [30m?1[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                         [0m[49m[31m[0m[31m[41m[33m INT[0m[33m[41m[41m[33m ✘[0m[33m[41m[41m[33m [0m[33m[41m[41m[33m[33m[0m[33m[41m[43m[30m 11s[0m[30m[43m[43m[30m  [0m[30m[43m[43m[30m [0m[30m[43m[49m[39m[38;5;242m─╮
-[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?2004he[1m[31me[0m[39m[1m[31me[0m[39m[90mxt install anthropic.claude-code[39m[32D[1m[31me[1m[31mx[0m[39m[0m[32me[0m[32mx[39m[32me[32mx[32mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [30D[1m[31me[1m[31mx[1m[31mi[0m[39m[90mt[39m[1m[31mi[1m[31mt[0m[39m[0m[32me[0m[32mx[0m[32mi[0m[32mt[39m[?1l>[?2004l
+[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m⇡1 [30m!2[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                         [0m[49m[31m[0m[31m[41m[33m 255[0m[33m[41m[41m[33m ✘[0m[33m[41m[41m[33m [0m[33m[41m[41m[33m[33m[0m[33m[41m[43m[30m 20s[0m[30m[43m[43m[30m  [0m[30m[43m[43m[30m [0m[30m[43m[49m[39m[38;5;242m─╮
+[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?2004he[1m[31me[0m[39m[1m[31me[0m[39m[90mxit[39m[1m[31me[1m[31mx[0m[39m[0m[32me[0m[32mx[39m[32me[32mx[32mi[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[0m[32me[0m[32mx[0m[32mi[0m[32mt[39m[?1l>[?2004l
 ]2;exit]1;exit
-Script done on 2026-06-05 20:39:28+04:00 [COMMAND_EXIT_CODE="130"]
-[32mc[32md[32m [32mo[39mt[4mw[24m[32mc[32md[39m[39m [39mot[24mw[32mm[32mk[39mdir otw[9D[32mm[32mk[32md[32mi[32mr[39m[4C[9D[32ml[32ms[39m[39m [39m [39m     [32ms[32ms[39mh bandit13@bandit.labs.overthewire.org -p 2220[48D[32ms[32ms[32mh[39m[45C[37D2[36C[37D3[36C[37D2[36C[37D1[36C[1Cbandit.labs.overthewire.org -p 2[2C0 [36Dbandit.labs.overthewire.org -p 2[2C0 [36Dbandit.labs.overthewire.org -p 2[2C0 [36D0bandit.labs.overthewire.org -p [2C20[35D1bandit.labs.overthewire.org -p [2C20[35D@bandit.labs.overthewire.org -p [2C20[35D[?1l>[?2004l
+Script done on 2026-06-05 20:40:54+04:00 [COMMAND_EXIT_CODE="255"]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [0m[38;5;242m[49m[39m[27m[24m[K
+
+[2A7[0m[49m[39m[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m
+[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[?2004h]4;0;#251d33\]4;1;#7C6290\]4;2;#885987\]4;3;#8F6994\]4;4;#A177A1\]4;5;#A88DB1\]4;6;#B28CB1\]4;7;#c8c6cc\]4;8;#6f677e\]4;9;#7C6290\]4;10;#885987\]4;11;#8F6994\]4;12;#A177A1\]4;13;#A88DB1\]4;14;#B28CB1\]4;15;#c8c6cc\]10;#c8c6cc\]11;#251d33\]12;#c8c6cc\]13;#c8c6cc\]17;#c8c6cc\]19;#251d33\]4;232;#251d33\]4;256;#c8c6cc\]4;257;#251d33\]708;#251d33\]4;0;#251d33\]4;1;#7C6290\]4;2;#885987\]4;3;#8F6994\]4;4;#A177A1\]4;5;#A88DB1\]4;6;#B28CB1\]4;7;#c8c6cc\]4;8;#6f677e\]4;9;#7C6290\]4;10;#885987\]4;11;#8F6994\]4;12;#A177A1\]4;13;#A88DB1\]4;14;#B28CB1\]4;15;#c8c6cc\]10;#c8c6cc\]11;#251d33\]12;#c8c6cc\]13;#c8c6cc\]17;#c8c6cc\]19;#251d33\]4;232;#251d33\]4;256;#c8c6cc\]4;257;#251d33\]708;#251d33\[?25l8[0m[49m[39m[27m[24m[J]4;0;#251d33\]4;1;#7C6290\]4;2;#885987\]4;3;#8F6994\]4;4;#A177A1\]4;5;#A88DB1\]4;6;#B28CB1\]4;7;#c8c6cc\]4;8;#6f677e\]4;9;#7C6290\]4;10;#885987\]4;11;#8F6994\]4;12;#A177A1\]4;13;#A88DB1\]4;14;#B28CB1\]4;15;#c8c6cc\]10;#c8c6cc\]11;#251d33\]12;#c8c6cc\]13;#c8c6cc\]17;#c8c6cc\]19;#251d33\]4;232;#251d33\]4;256;#c8c6cc\]4;257;#251d33\]708;#251d33\]2;laxita@debian13:~/otw]1;~/otw]7;file://debian13/home/laxita/otw\[0m[38;5;254m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                               [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[38;5;242m[49m[39m
+[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m⇡1 [30m!2[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                                    [0m[49m[31m[0m[31m[41m[33m 1[0m[33m[41m[41m[33m ✘[0m[33m[41m[41m[33m [0m[33m[41m[49m[39m[38;5;242m─╮
+[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?25h[?2004h./bandit-session.sh[19D[32m.[32m/[32mb[32ma[32mn[32md[32mi[32mt[32m-[32ms[32me[32ms[32ms[32mi[32mo[32mn[32m.[32ms[32mh[39m[19D[32me[32mx[32mi[32mt[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[32ms[32ms[32mh[32m [39mbandit01@bandit.labs.overthewire.org -p 2220[46D[32mh[39m[39m [44C@bandit.labs.overthewire.org -p 2[2C0 [37D[?1l>[?2004l
+]2;ssh bandit0@bandit.labs.overthewire.org -p 2220]1;bandit0@bandit.labs.overthewire.org                         _                     _ _ _   
+                        | |__   __ _ _ __   __| (_) |_ 
+                        | '_ \ / _` | '_ \ / _` | | __|
+                        | |_) | (_| | | | | (_| | | |_ 
+                        |_.__/ \__,_|_| |_|\__,_|_|\__|
+                                                       
+
+                      This is an OverTheWire game server. 
+            More information on http://www.overthewire.org/wargames
+
+backend: gibson-1
+bandit0@bandit.labs.overthewire.org's password: 
+
+      ,----..            ,----,          .---.
+     /   /   \         ,/   .`|         /. ./|
+    /   .     :      ,`   .'  :     .--'.  ' ;
+   .   /   ;.  \   ;    ;     /    /__./ \ : |
+  .   ;   /  ` ; .'___,/    ,' .--'.  '   \' .
+  ;   |  ; \ ; | |    :     | /___/ \ |    ' '
+  |   :  | ; | ' ;    |.';  ; ;   \  \;      :
+  .   |  ' ' ' : `----'  |  |  \   ;  `      |
+  '   ;  \; /  |     '   :  ;   .   \    .\  ;
+   \   \  ',  /      |   |  '    \   \   ' \ |
+    ;   :    /       '   :  |     :   '  |--"
+     \   \ .'        ;   |.'       \   \ ;
+  www. `---` ver     '---' he       '---" ire.org
+
+
+Welcome to OverTheWire!
+
+If you find any problems, please report them to the #wargames channel on
+discord or IRC.
+
+--[ Playing the games ]--
+
+  This machine might hold several wargames.
+  If you are playing "somegame", then:
+
+    * USERNAMES are somegame0, somegame1, ...
+    * Most LEVELS are stored in /somegame/.
+    * PASSWORDS for each level are stored in /etc/somegame_pass/.
+
+  Write-access to homedirectories is disabled. It is advised to create a
+  working directory with a hard-to-guess name in /tmp/.  You can use the
+  command "mktemp -d" in order to generate a random and hard to guess
+  directory in /tmp/.  Read-access to both /tmp/ is disabled and to /proc
+  restricted so that users cannot snoop on eachother. Files and directories
+  with easily guessable or short names will be periodically deleted! The /tmp
+  directory is regularly wiped.
+  Please play nice:
+
+    * don't leave orphan processes running
+    * don't leave exploit-files laying around
+    * don't annoy other players
+    * don't post passwords or spoilers
+    * again, DONT POST SPOILERS!
+      This includes writeups of your solution on your blog or website!
+
+--[ Tips ]--
+
+  This machine has a 64bit processor and many security-features enabled
+  by default, although ASLR has been switched off.  The following
+  compiler flags might be interesting:
+
+    -m32                    compile for 32bit
+    -fno-stack-protector    disable ProPolice
+    -Wl,-z,norelro          disable relro
+
+  In addition, the execstack tool can be used to flag the stack as
+  executable on ELF binaries.
+
+  Finally, network-access is limited for most levels by a local
+  firewall.
+
+--[ Tools ]--
+
+ For your convenience we have installed a few useful tools which you can find
+ in the following locations:
+
+    * gef (https://github.com/hugsy/gef) in /opt/gef/
+    * pwndbg (https://github.com/pwndbg/pwndbg) in /opt/pwndbg/
+    * gdbinit (https://github.com/gdbinit/Gdbinit) in /opt/gdbinit/
+    * pwntools (https://github.com/Gallopsled/pwntools)
+    * radare2 (http://www.radare.org/)
+
+--[ More information ]--
+
+  For more information regarding individual wargames, visit
+  http://www.overthewire.org/wargames/
+
+  For support, questions or comments, contact us on discord or IRC.
+
+  Enjoy your stay!
+
+[?2004h]0;bandit0@bandit: ~[01;32mbandit0@bandit[00m:[01;34m~[00m$ ls
+[?2004lreadme
+[?2004h]0;bandit0@bandit: ~[01;32mbandit0@bandit[00m:[01;34m~[00m$ cd e[Kreadme
+[?2004l-bash: cd: readme: Not a directory
+[?2004h]0;bandit0@bandit: ~[01;32mbandit0@bandit[00m:[01;34m~[00m$ cat readme
+[?2004lCongratulations on your first steps into the bandit game!!
+Please make sure you have read the rules at https://overthewire.org/rules/
+If you are following a course, workshop, walkthrough or other educational activity,
+please inform the instructor about the rules as well and encourage them to
+contribute to the OverTheWire community so we can keep these games free!
+
+The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+[?2004h]0;bandit0@bandit: ~[01;32mbandit0@bandit[00m:[01;34m~[00m$ exit
+[?2004llogout
+Connection to bandit.labs.overthewire.org closed.
+[1m[7m%[27m[1m[0m                                                                                ]2;laxita@debian13:~/otw]1;~/otw]7;file://debian13/home/laxita/otw\[0m[49m[39m[K
+[0m[27m[24m[J[0m[38;5;242m[49m[39m
+[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m⇡1 [30m!2[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                             [0m[49m[30m[0m[30m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m 30s[0m[30m[43m[43m[30m  [0m[30m[43m[43m[30m [0m[30m[43m[49m[39m[38;5;242m─╮
+[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?2004hssh bandit0@bandit.labs.overthewire.org -p 2220[47D[32ms[32ms[32mh[39m[44C1@bandit.labs.overthewire.org -p [2C20[36D[?1l>[?2004l
 ]2;ssh bandit01@bandit.labs.overthewire.org -p 2220]1;bandit01@bandit.labs.overthewire.org                         _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -41,10 +276,13 @@ backend: gibson-1
 bandit01@bandit.labs.overthewire.org's password: 
 Permission denied, please try again.
 bandit01@bandit.labs.overthewire.org's password: 
-
+Permission denied, please try again.
+bandit01@bandit.labs.overthewire.org's password: 
+bandit01@bandit.labs.overthewire.org: Permission denied (publickey,password).
 [1m[7m%[27m[1m[0m                                                                                ]2;laxita@debian13:~/otw]1;~/otw]7;file://debian13/home/laxita/otw\[0m[49m[39m[K
 [0m[27m[24m[J[0m[38;5;242m[49m[39m
-[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m!1 [30m?1[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                         [0m[49m[31m[0m[31m[41m[33m INT[0m[33m[41m[41m[33m ✘[0m[33m[41m[41m[33m [0m[33m[41m[41m[33m[33m[0m[33m[41m[43m[30m 11s[0m[30m[43m[43m[30m  [0m[30m[43m[43m[30m [0m[30m[43m[49m[39m[38;5;242m─╮
-[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?2004he[1m[31me[0m[39m[1m[31me[0m[39m[90mxt install anthropic.claude-code[39m[32D[1m[31me[1m[31mx[0m[39m[0m[32me[0m[32mx[39m[32me[32mx[32mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [30D[1m[31me[1m[31mx[1m[31mi[0m[39m[90mt[39m[1m[31mi[1m[31mt[0m[39m[0m[32me[0m[32mx[0m[32mi[0m[32mt[39m[?1l>[?2004l
-]2;exit]1;exitExtracted commands to:
+[A[38;5;242m╭─[0m[38;5;242m[47m[38;5;232m [0m[38;5;232m[47m[47m[38;5;232m [0m[38;5;232m[47m[44m[37m[0m[37m[44m[44m[38;5;254m   [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255motw[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[43m[34m[0m[34m[43m[43m[30m   [30m main [30m⇡1 [30m!2[0m[30m[43m[43m[30m [0m[30m[43m[49m[33m[0m[33m[49m[39m                         [0m[49m[31m[0m[31m[41m[33m 255[0m[33m[41m[41m[33m ✘[0m[33m[41m[41m[33m [0m[33m[41m[41m[33m[33m[0m[33m[41m[43m[30m 20s[0m[30m[43m[43m[30m  [0m[30m[43m[43m[30m [0m[30m[43m[49m[39m[38;5;242m─╮
+[38;5;242m╰─[0m[38;5;242m[49m[39m[0m[49m[39m [0m[49m[39m[K[74C[0m[49m[39m[38;5;242m─╯[39m[76D[?1h=[?2004he[1m[31me[0m[39m[1m[31me[0m[39m[90mxit[39m[1m[31me[1m[31mx[0m[39m[0m[32me[0m[32mx[39m[32me[32mx[32mi[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[0m[32me[0m[32mx[0m[32mi[0m[32mt[39m[?1l>[?2004l
+]2;exit]1;exitgrep: /home/laxita/otw/bandit/2026-06-05.log: binary file matches
+Extracted commands to:
 /home/laxita/otw/bandit/2026-06-05.history
