@@ -1,0 +1,53 @@
+ls
+mktemp -d
+cd /tmp/tmp.XGppcIhptk
+ls
+cp /data.txt
+c/~ata.txttt
+ls
+file data.txt
+base64 -d data.txt
+fileadata.txt
+cat data.txt
+ls
+file data.txt
+file data
+xxd -r data.txt > data
+file data
+mvidata.data.gz
+gzip -d data.gz
+ls
+file data
+mv data data.bz2
+bzip2 -d data.bz2
+ls
+file data
+mvidata data.gz
+gzi-.gzta
+ls
+file data
+mv data data.tar
+mv data data.tar
+mv data.ta data.tar
+tar -xf data.tar
+ls
+file data5.bin
+mv data5.bin data.tar
+tar -xf data.tar
+ls
+file data6.bin
+mv data6.bin data.bz2
+bzip2 -d data6.bz2
+bzip2 -d data.bz22
+ls
+file data
+mv data data.tar
+tara-xf data.tar
+ls
+file data8.bin
+mvidata8.bin data.gz
+gzip -dtdata.gz
+ls
+file data
+cat data
+exit
